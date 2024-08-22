@@ -15,8 +15,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHUNYOUNGSANG&theme=tokyonight )
  </br>
 
-[![](https://github-readme-stats.vercel.app/api?username=CHUNYOUNGSANG&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/CHUNYOUNGSANG)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=CHUNYOUNGSANG&hide_border=true&theme=tokyonight)](https://github.com/CHUNYOUNGSANG)
+[![](https://github-readme-stats.vercel.app/api?username=CHUNYOUNGSANG&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/CHUNYOUNGSANG) [![](https://github-readme-streak-stats.herokuapp.com/?user=CHUNYOUNGSANG&hide_border=true&theme=tokyonight)](https://github.com/CHUNYOUNGSANG)
+
  </br>
     
 
