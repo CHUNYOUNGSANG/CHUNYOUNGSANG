@@ -7,21 +7,7 @@
  ---
      
 [![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHUNYOUNGSANG&count_bg=%239CE167&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/CHUNYOUNGSANG)
-
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-<div style="display: flex; align-items: center; justify-content: center;">
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHUNYOUNGSANG&theme=tokyonight )
- </br>
-
-[![](https://github-readme-stats.vercel.app/api?username=CHUNYOUNGSANG&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/CHUNYOUNGSANG) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=CHUNYOUNGSANG&hide_border=true&theme=tokyonight)](https://github.com/CHUNYOUNGSANG)
-
- </br>
-    
-
-<br>
+</br>
 
 ## 📝 DEV's log 📝
 <div style="display:flex; flex-direction:row;">
@@ -52,11 +38,15 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <br>
-<!--     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">  -->
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
    
 </div><br>
-    
+    <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+    <div style="display: flex; align-items: center; justify-content: center;">
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHUNYOUNGSANG&theme=tokyonight )
+ </br>
