@@ -11,9 +11,11 @@
 
 ## 📝 DEV's log 📝
 <div style="display:flex; flex-direction:row;">
-    <a href="https://cys07028.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
+ 
+ <a href="https://cys07028.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tech Blog-ff6347?style=for-the-badge&logo=Tistory&logoColor=white">
+ </a>
+ 
 </div><br>
 
 ## 💪 Experience 💪
