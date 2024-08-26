@@ -45,7 +45,8 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
    
-</div><br>
+</div>
+<br>
     <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
     <div style="display: flex; align-items: center; justify-content: center;">
 
