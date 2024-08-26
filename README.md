@@ -19,7 +19,7 @@
 </div><br>
 
 ## 💪 Experience 💪
-- **💻 Programmers dev-course 1th Back-end taking a course** _(2024.07~)_
+- **💻 Programmers dev-course 1th Back-end taking a course** _(2024.07.15~)_
 - 
 <br>
  
